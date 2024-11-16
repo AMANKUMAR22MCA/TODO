@@ -3,7 +3,11 @@
 
 A **feature-rich To-Do Application** built with **Django**, **JavaScript**, and **Bootstrap** to help users manage their daily tasks efficiently. This app includes user authentication, task management, and a sleek, responsive interface.
 
----
+---<bR>
+
+![image](https://github.com/user-attachments/assets/e6b73a54-0980-498d-9ec7-97163950fa51)
+<br>
+
 
 ## 🏆 Table of Contents
 
