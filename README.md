@@ -54,7 +54,7 @@ A **feature-rich To-Do Application** built with **Django**, **JavaScript**, and 
 
 ## 🌐 Live Demo
 
-🚀 Coming soon! (Consider hosting on platforms like [Heroku](https://www.heroku.com/), [Vercel](https://vercel.com/), or [Render](https://render.com/)).
+🚀 Coming soon! 
 
 ---
 
