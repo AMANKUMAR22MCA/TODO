@@ -54,7 +54,7 @@ A **feature-rich To-Do Application** built with **Django**, **JavaScript**, and 
 
 ## 🌐 Live Demo
 
-🚀 Coming soon! 
+🚀 https://www.youtube.com/watch?v=5GKIs813jxQ
 
 ---
 
